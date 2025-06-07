@@ -1,6 +1,6 @@
-# 👋 Hello! I am JAIME ANDRES GUACARAPARE SOTELO
+# 👋 Hello! I am JAIME ANDRES GUACARAPARE SOTELO 
 
-🎯 Full Stack Developer / Backend Developer 💻 Passionate about technology 🌎 Constantly learning
+🎯 Full Stack Developer / Backend Developer with 2 years of experience 💻 Passionate about technology 🌎 Constantly learning
 
 ---
 
@@ -13,12 +13,25 @@ strong commitment to good development practices, continuous improvement and effe
 
 ---
 
+## 🧠  Programming Languages
+
+2 years: C#, TypeScript, PHP, JavaScript.
+
+---
+
 ## 🛠️ Technologies
 
 Node.js, .NET, Laravel, Angular,
 Blazor, JWT, AWS, Azure,
 Microservices, MySQL, PostgreSQL,
 SQL Server, Git, GitHub.
+
+---
+
+## 📚 Languages
+
+English: C1
+Spanish: Native 
 
 ---
 
