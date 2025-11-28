@@ -16,17 +16,16 @@
 
 ---
 
-## 🧠  Programming Languages
-
-2 years: C#, TypeScript, PHP, JavaScript.
-
----
-
 ## 🛠️ Technologies
 
-Software Developer | Backend & Fullstack .NET | C#, ASP.NET Core, Azure 
-| APIs REST, Scalable Architecture & SOLID 
-| SQL Server, EF Core | Angular
+ Languages: C#, JavaScript, TypeScript, PHP
+ Frameworks: ASP.NET Core, Laravel, Angular, Next.js, Vue.js
+ Backend & Architecture: RESTful APIs, Microservices, SOLID Principles, Design Patterns, Entity Framework, JWT
+ Authentication, PCI DSS Compliance  
+ Databases: SQL Server, MySQL, PostgreSQL  
+ Cloud & DevOps: Microsoft Azure (App Services, SQL Databases, Azure Functions), AWS, Docker, CI/CD, Azure DevOps, Git,
+ GitHub  
+ Testing: xUnit, NUnit, Unit Testing, Integration Testing
 
 ---
 
