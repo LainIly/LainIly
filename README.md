@@ -1,15 +1,18 @@
 # 👋 Hello! I am JAIME ANDRES GUACARAPARE SOTELO 
 
-🎯 Full Stack Developer / Backend Developer with 2 years of experience 💻 Passionate about technology 🌎 Constantly learning
+🎯 Fullstack & Backend Developer
 
 ---
 
 ## 🚀 About me
 
-Software Developer with a solid background in the analysis, design and development of innovative technological solutions, oriented to
-improve the efficiency and scalability of systems. Expert in languages such as JavaScript, TypeScript, PHP and C#, with extensive
-experience in modern frameworks such as .NET, Laravel, Node.js and Angular. Focused on writing clean and maintainable code, with a
-strong commitment to good development practices, continuous improvement and effective resolution of complex problems.
+ Software Developer with 2+ years of experience delivering scalable backend-driven solutions, designing clean and secure APIs, and
+ improving system performance through solid engineering practices. Strong understanding of software architecture, database design,
+ and cloud-oriented application development.
+ 
+ Skilled in applying SOLID principles, design patterns, and automated testing strategies to enhance code quality and long-term
+ maintainability. Experienced collaborating with cross-functional teams, optimizing processes, and contributing to high-impact
+ solutions in production environments.
 
 ---
 
@@ -21,16 +24,15 @@ strong commitment to good development practices, continuous improvement and effe
 
 ## 🛠️ Technologies
 
-Node.js, .NET, Laravel, Angular,
-Blazor, JWT, AWS, Azure,
-Microservices, MySQL, PostgreSQL,
-SQL Server, Git, GitHub.
+Software Developer | Backend & Fullstack .NET | C#, ASP.NET Core, Azure 
+| APIs REST, Scalable Architecture & SOLID 
+| SQL Server, EF Core | Angular
 
 ---
 
 ## 📚 Languages
 
-English: C1
+English: B2+
 Spanish: Native 
 
 ---
